@@ -436,7 +436,7 @@ footer {
 .view-project button{
         color: #181670;
         
-        border: none;
+        border: 1px solid #181670
         background-color: #ffffff;
 }
 
